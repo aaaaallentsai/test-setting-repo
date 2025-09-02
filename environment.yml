@@ -1,0 +1,17 @@
+name: myproj
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - ipykernel
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - python-dotenv
+  - python=3.11
+  - scikit-learn
+prefix: C:\Users\a0l8l\anaconda3\envs\myproj
